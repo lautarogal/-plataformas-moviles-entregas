@@ -39,7 +39,7 @@
 		}
 
 		p.novelas a {
-			outline: none;
+			 outline: 1px solid #333;
 			text-decoration: none;
 		}
 		p.novelas a:hover {
