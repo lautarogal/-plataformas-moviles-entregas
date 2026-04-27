@@ -1,5 +1,7 @@
  <style>
-
+	body{
+		text-align: center;
+		}
   @media screen and (min-width: 400px) {
   	body {
     		background-color:gray;
